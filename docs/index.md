@@ -1,5 +1,6 @@
 ## Fish nearshore habitat-use patterns as ecological indicators of nursery quality
 This GitHub page contains informaiton of the data and R code for data analysis for paper "Fish nearshore habitat-use patterns as ecological indicators of nursery quality"
+
 ### Rcode
 The chemical signals of 37 fish otolith smaples collected from two archaeological sites and two modern sites from the Hauraki Gulf, Auckland, New Zealand, were analyst using a adapted BCPA (behavioural change point analysis) followed by k-means clustering. 
 
@@ -143,29 +144,8 @@ data<- cbind(data, state)
 ```
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+#data
+data are availible at https://github.com/jzha336/Fish-nearshore-habitat-use/blob/main/data.xlsx
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jzha336/otolithmicrochemistyanalysis.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Please contact Dr. Julian Lilkendey <julian.lilkendey@icloud.com> for more information regarding the paper
+Please contact Dr. Jingjing Zhang <jingjing.zhang@aut.ac.nz> for more information regarding to the data analysis
