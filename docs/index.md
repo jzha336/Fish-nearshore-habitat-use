@@ -148,4 +148,5 @@ data<- cbind(data, state)
 data are availible at https://github.com/jzha336/Fish-nearshore-habitat-use/blob/main/data.xlsx
 ```
 Please contact Dr. Julian Lilkendey <julian.lilkendey@icloud.com> for more information regarding the paper
+
 Please contact Dr. Jingjing Zhang <jingjing.zhang@aut.ac.nz> for more information regarding to the data analysis
