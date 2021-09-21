@@ -1,5 +1,5 @@
 ## Fish nearshore habitat-use patterns as ecological indicators of nursery quality
-This GitHub page contains informaiton of the data and R code for data analysis for paper "Fish nearshore habitat-use patterns as ecological indicators of nursery quality"
+This GitHub page contains information of the data and R code for data analysis for paper "Fish nearshore habitat-use patterns as ecological indicators of nursery quality"
 
 ### Rcode
 The chemical signals of 37 fish otolith smaples collected from two archaeological sites and two modern sites from the Hauraki Gulf, Auckland, New Zealand, were analyst using a adapted BCPA (behavioural change point analysis) followed by k-means clustering. 
