@@ -150,3 +150,6 @@ data are availible at https://github.com/jzha336/Fish-nearshore-habitat-use/blob
 Please contact Dr. Julian Lilkendey <julian.lilkendey@icloud.com> for more information regarding the paper
 
 Please contact Dr. Jingjing Zhang <jingjing.zhang@aut.ac.nz> for more information regarding the data analysis
+
+This code is supplement to https://doi.org/10.1016/j.ecolind.2021.108225, please cite it as Zenodo DOI: 10.5281/zenodo.5518872.
+
